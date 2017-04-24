@@ -38,9 +38,11 @@ Listen buddy, if you're reading a tutorial about opening websites from a termina
 # Back to the Actual Guide.
 
 Now, in order to run the script, you must use the following syntax -
+
 `python open_site.py [browser] [website1] [website2]...`
 
 An example of this would be -
+
 `python open_site.py firefox facebook netflix youtube`
 
 ## What else can I do with this marvellous script?
