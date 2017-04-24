@@ -52,7 +52,7 @@ Also note that the command for your default browser is `def`, as in -
 ## What else can I do with this marvellous script?
 Why, the world is your oyster! Given that this script is open-source, you can manipulate it as you will.
 
-It's not a particularly complicated bit of Python code, and it's fairly clear how you can modify the code to use less inputs, to have more macros (It currently only has `mail` going to GMail, and `calendar` going to Google Calendars).
+It's not a particularly complicated bit of Python code, and it's fairly clear how you can modify the code to use less inputs, to have more macros (it currently only has `mail` going to GMail, and `calendar` going to Google Calendars).
 
 Enjoy!
 
