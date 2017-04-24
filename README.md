@@ -45,7 +45,7 @@ An example of this would be -
 
 `python open_site.py firefox facebook netflix youtube`
 
-Also note that the command for your default browser if `def`, as in -
+Also note that the command for your default browser is `def`, as in -
 
 `python open_site.py def pizzahut`
 
