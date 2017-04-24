@@ -49,6 +49,16 @@ Also note that the command for your default browser is `def`, as in -
 
 `python open_site.py def pizzahut`
 
+Another thing you can do to make your life even easier than it already is, is to set up an alias -
+
+`alias site="python open_site.py"`
+
+Now you can type one less word and launch a website by simply saying -
+
+`site def facebook`
+
+Can I get any lazier?
+
 ## What else can I do with this marvellous script?
 Why, the world is your oyster! Given that this script is open-source, you can manipulate it as you will.
 
