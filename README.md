@@ -45,11 +45,15 @@ An example of this would be -
 
 `python open_site.py firefox facebook netflix youtube`
 
+Also note that the command for your default browser if `def`, as in -
+
+`python open_site.py def pizzahut`
+
 ## What else can I do with this marvellous script?
-Why! The world is your oyster! Given that this script is open-source, you can manipulate it as you will.
+Why, the world is your oyster! Given that this script is open-source, you can manipulate it as you will.
 
 It's not a particularly complicated bit of Python code, and it's fairly clear how you can modify the code to use less inputs, to have more macros (It currently only has `mail` going to GMail, and `calendar` going to Google Calendars).
 
 Enjoy!
 
-##- Mukul Ram
+## - Mukul Ram
