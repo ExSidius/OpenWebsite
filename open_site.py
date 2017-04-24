@@ -37,5 +37,5 @@ if (num_args >= 3):
 
 # Error message.
 else:
-    print("\nPlease use format:\npython open_browser_website.py [browser] [website1]" +
+    print("\n\nPlease use format:\npython open_browser_website.py [browser] [website1]" +
     "[website2]...\n\nOr if you have alias \"site\" set up:\nsite [browser] [website1] [website2]...\n\n");
