@@ -31,7 +31,7 @@ This should move it over to your home directory.
 > Can't I just drag and drop?
 
 ### My response is as follows -
-Why yes you can, you silly ass, but if you're on this website, it's clearly to improve your programming skills and turn into an obnoxious master coder. Any master coder with a modicum of self-worth has already abandoned the GUI, since the 50s, 60s, 70s, and 80s (also affectionately referred to as the ***Golden Age of Computer Programming***) didn't possess them, and *why in the world* would one want to make ones life easier in the slightest, if efficiency was being compromised in the process.
+Why yes you can, you silly ass, but if you're on this website, it's clearly to improve your programming skills and turn into an obnoxious master coder. Any master coder with a modicum of self-worth has already abandoned the GUI, since the 50s, 60s, 70s, and 80s (also affectionately referred to as the ***Golden Age of Computer Programming***) didn't possess them, and *why in the world* would one want to make ones' life easier in the slightest, if efficiency was being compromised in the process.
 
 Listen buddy, if you're reading a tutorial about opening websites from a terminal, instead of clicking the little logo at the bottom of your screen and typing a few characters, then clearly you're already too far gone to return to GUIs, so you might as well do **everything** in the Terminal.
 
