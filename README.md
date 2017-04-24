@@ -1,6 +1,6 @@
 # OpenWebsite
 ## A Python Script for Opening Websites from Terminal
-## .com Websites. Oh, and you can open macros too.
+### .com Websites. Oh, and you can open macros too.
 
 # The Story
 
