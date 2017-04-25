@@ -23,11 +23,11 @@ def open_site(browser, site):
 
     # For default browser.
     if (browser == "def"):
-        webbrowser.open_new(website);
+        webbrowser.open(website, new=2, autoraise=True);
 
     # For any other browser.
     else:
-        webbrowser.get(browser).open_new(website);
+        webbrowser.get(browser).open(website, new=2, autoraise=True);
 
     return;
 
