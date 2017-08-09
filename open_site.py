@@ -17,6 +17,10 @@ def open_site(browser, site):
     elif  (site == "elms"):
         website = "https://elms.umd.edu";
 
+
+    elif (site == "habitica"):
+    	website = "https://www.habitica.com";
+
     # Default website input.
     else:
         website = "https://www." + site + ".com";
